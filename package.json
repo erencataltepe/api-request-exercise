@@ -1,0 +1,23 @@
+{
+  "name": "api-request-exercise",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Api Request Exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erencataltepe/api-request-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erencataltepe/api-request-exercise/issues"
+  },
+  "homepage": "https://github.com/erencataltepe/api-request-exercise#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
